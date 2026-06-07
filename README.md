@@ -126,7 +126,7 @@ your repo. One account runs both.
 
 These are in active development — names you'll hear soon:
 
-- **ATLAS** — a ground-truth engine that sits between your models to keep outputs
+- **ATLAS** — a ground-truth engine that will sit between your models to keep outputs
   anchored to verified reality.
 - **Dream Logs** — ambient memory: your agents will synthesize what they learned
   about your work between sessions, so the system arrives already up to speed.
