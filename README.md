@@ -18,28 +18,7 @@ Your cloud provider's audit log is an editable text file. AetherCloud turns your
 audit trail from opinion into a cryptographically signed chain of evidence — and
 runs a fleet of AI agents on top of it.
 
----
-
-## The problem
-
-**1. Audit trails aren't evidence.** Traditional logs can be edited by admins,
-altered on a compromised server, or quietly changed by a cloud provider. In a
-dispute, your log is opinion — not proof.
-
-**2. AI outputs have no chain of custody.** The response your AI generated and
-the response your system acted on may not be the same. Nothing proves they match.
-
-**3. AI starts from zero every session.** No tool learns which outputs you
-published, revised, or discarded. You pay for the same mediocre first draft
-forever.
-
-AetherCloud is built to close all three gaps.
-
----
-
-## What you get
-
-AetherCloud is a desktop-native, agentic AI platform. Five pillars:
+## AetherCloud is a desktop-native, agentic AI platform. Five pillars:
 
 ### 🔐 Trust & provenance — *the moat*
 Every file operation and every AI output is SHA-256 hashed, signed with a
