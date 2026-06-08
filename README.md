@@ -90,20 +90,6 @@ web.
 
 ---
 
-## See it
-
-<div align="center">
-
-| Vault | Orbit |
-|---|---|
-| ![Vault](assets/screenshots/01-vault.png) | ![Orbit](assets/screenshots/02-orbit.png) |
-| **Agents** | **Terminal** |
-| ![Agents](assets/screenshots/03-agents.png) | ![Terminal](assets/screenshots/06-terminal.png) |
-
-</div>
-
----
-
 ## Pricing & UVT
 
 AetherCloud runs on the shared Aether platform — **one account, one balance, one
