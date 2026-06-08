@@ -1,6 +1,7 @@
 <div align="center">
 
 # AetherCloud
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/0a6e50d7-7867-45a6-93d9-ff1a1875de3d" />
 
 ### The intelligent agentic desktop app for provable AI.
 
