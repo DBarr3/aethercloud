@@ -46,22 +46,6 @@ Go concept → campaign without switching tabs: multi-agent workflows draft, bui
 and drop verified results into your Vault. Build a workflow once, set it on a
 daily schedule in plain English, and walk away — the agents run while you sleep.
 
----
-
-## See it
-
-<div align="center">
-
-| Vault | Orbit |
-|---|---|
-| ![Vault](assets/screenshots/01-vault.png) | ![Orbit](assets/screenshots/02-orbit.png) |
-| **Agents** | **Terminal** |
-| ![Agents](assets/screenshots/03-agents.png) | ![Terminal](assets/screenshots/06-terminal.png) |
-
-</div>
-
----
-
 ## Pricing & UVT
 
 AetherCloud runs on the shared Aether platform — **one account, one balance, one
