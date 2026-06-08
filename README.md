@@ -7,7 +7,7 @@
 
 [![Patent Pending](https://img.shields.io/badge/patent-pending%20%2364%2F010%2C131-7c3aed)](https://aethersystems.net) [![Platform](https://img.shields.io/badge/platform-Windows-06b6d4)](https://aethersystems.net/download) [![Built by Aether](https://img.shields.io/badge/built%20by-Aether-14b8a6)](https://aethersystems.net)
 
-**[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Aether Code (terminal sibling)](https://github.com/DBarr3/aether-code)**
+**[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Aether Code (terminal sibling)](https://github.com/DBarr3/aether-agent)**
 
 </div>
 
@@ -81,7 +81,7 @@ you use it — no config, no fine-tuning.
 
 ## A terminal sibling: Aether Code
 
-Live in the terminal? **[Aether Code](https://github.com/DBarr3/aether-code)** is
+Live in the terminal? **[Aether Code](https://github.com/DBarr3/aether-agent)** is
 the open-source coding agent that bridges into the same platform — same login,
 same UVT balance, same model fleet. Drive your repo from the command line, drive
 projects and the Vault from the desktop app. **One account runs both**, and your
@@ -93,7 +93,7 @@ web.
 ## Pricing & UVT
 
 AetherCloud runs on the shared Aether platform — **one account, one balance, one
-bill**, shared with [Aether Code](https://github.com/DBarr3/aether-code) and your
+bill**, shared with [Aether Code](https://github.com/DBarr3/aether-agent) and your
 Aether AI on the web.
 
 | Tier | For |
