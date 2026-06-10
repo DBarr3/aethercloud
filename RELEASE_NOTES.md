@@ -1,6 +1,20 @@
 # Aether AI — June 2026 Release Notes
 
-**June 9, 2026** — AetherCloud + Aether Agent
+**June 10, 2026** — Vault Overhaul · **June 9, 2026** — AetherCloud + Aether Agent
+
+---
+
+## Vault Overhaul — June 10, 2026
+
+The AetherCloud Vault is now fully organizable and customizable.
+
+- **Folders** — Create, rename, color, and delete folders. Drag files between them right in the list.
+- **Rename files** — Inline rename, synced to your cloud vault.
+- **Right-click everywhere** — Context menus on files and folders in both the list and the 3D galaxy view: open, rename, move, color, pin as context, remove.
+- **Customizable 3D galaxy** — Orbit and zoom speed, icon and label scale, starfield density, three color themes. Drag file nodes to arrange your vault spatially — your layout persists.
+- **Faster** — The vault list and the galaxy renderer were tuned for large vaults.
+
+Your organization and layout are stored in your own vault and follow your account across devices.
 
 ---
 
