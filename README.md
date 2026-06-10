@@ -7,7 +7,7 @@
 
 [![Patent Pending](https://img.shields.io/badge/patent-pending%20%2364%2F010%2C131-7c3aed)](https://aethersystems.net) [![Platform](https://img.shields.io/badge/platform-Windows-06b6d4)](https://aethersystems.net/download) [![Built by Aether](https://img.shields.io/badge/built%20by-Aether-14b8a6)](https://aethersystems.net)
 
-**[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Aether Code (terminal sibling)](https://github.com/DBarr3/aether-agent)**
+**[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Release notes](RELEASE_NOTES.md)** · **[Aether Code (terminal sibling)](https://github.com/DBarr3/aether-agent)**
 
 </div>
 
