@@ -16,33 +16,24 @@
 
 > ## Stop chatting with AI. Start commanding a fleet of agents.
 >
-> AetherCloud puts a team of AI agents, a coding IDE, and a living memory Vault on
-> your machine — then lets them run real, multi-step work while you watch (or while
-> you sleep). Every output is cryptographically signed, so you can actually trust
-> what comes back.
-
-A chat window gives you one model, one message at a time, and a transcript it
-forgets tomorrow. AetherCloud gives you agents that finish tasks, a Vault every
-agent shares, workflows that run themselves on a schedule, and proof — not vibes —
-behind every result.
+> AI agents, a coding IDE, and a living memory Vault on your machine — running
+> real, multi-step work while you watch or while you sleep. Every output
+> cryptographically signed.
 
 ## Models & orchestration
 
-One account unlocks the whole fleet — **Claude, GPT, DeepSeek, Kimi, and Gemma**
-for text & code, plus **image generation** (Nano Banana Pro, Recraft V3, GPT
-Image 2) and **video & 3D** (Seedance, Veo, Kling, HunyuanVideo, Hunyuan3D).
+One fleet — **Claude, GPT, DeepSeek, Kimi, and Gemma** for text & code, plus
+**image, video & 3D generation** (Nano Banana Pro, Recraft V3, GPT Image 2,
+Seedance, Veo, Kling, Hunyuan). **Models unlock by tier.**
 
-Pick a model, or don't: **NEO** and **KRONUS** triage your task and route it to
-the right model automatically, gated to your plan and balance. **Aether-Vision**
-pairs a reasoning brain with the media fleet, so one prompt plans,
-prompt-engineers, and generates in a single run.
+**NEO**, **KRONUS**, and **Aether-Vision** orchestrators route a task to the
+right models for you — also tier-gated.
 
-Behind the orchestrators sits a roster of **preset specialist agents** you deploy
-as teams. Agents plug into **MCP servers** and a built-in skills library, and can
-drive a **sandboxed browser** when a task needs the live web.
+Preset agents deploy as teams. They plug into **MCP servers** and a skills
+library, and can drive a **sandboxed browser** when a task needs the live web.
 
-The same fleet follows you everywhere — this desktop, [Aether AI on the
-web](https://aethersystems.net), and [the terminal](https://github.com/DBarr3/aether-agent).
+Same fleet on this desktop, [the web](https://aethersystems.net), and
+[the terminal](https://github.com/DBarr3/aether-agent).
 
 ## Workflows
 
