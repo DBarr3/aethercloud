@@ -37,6 +37,10 @@ the right model automatically, gated to your plan and balance. **Aether-Vision**
 pairs a reasoning brain with the media fleet, so one prompt plans,
 prompt-engineers, and generates in a single run.
 
+Behind the orchestrators sits a roster of **preset specialist agents** you deploy
+as teams. Agents plug into **MCP servers** and a built-in skills library, and can
+drive a **sandboxed browser** when a task needs the live web.
+
 The same fleet follows you everywhere — this desktop, [Aether AI on the
 web](https://aethersystems.net), and [the terminal](https://github.com/DBarr3/aether-agent).
 
@@ -56,7 +60,8 @@ between a chat tab and your editor.
 ## The Vault — your AI's living memory
 
 A sealed Vault gives your agents real, persistent context: your files, your past
-work, your decisions — rendered as a navigable galaxy you can search. It's not a
+work, your decisions — rendered as a navigable galaxy you can search in plain
+English ("where is my patent filing?"). It's not a
 dumb folder; it's the active working memory the agents reason from. And it **syncs
 to your Aether AI on the web**, so you pick up the same context from your browser.
 Your files never touch a third-party cloud, and every model call is signed.

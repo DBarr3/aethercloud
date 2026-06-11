@@ -1,7 +1,7 @@
 # Pricing & UVT Credits
 
 AetherCloud bills on the shared Aether platform. **One account, one balance, one
-bill** — shared with [Aether Code](https://github.com/DBarr3/aether-agent).
+bill** — shared with [Aether Agent](https://github.com/DBarr3/aether-agent).
 
 > **Live, authoritative pricing lives at [aethersystems.net/pricing](https://aethersystems.net/pricing).**
 > The tiers, prices, and credit amounts on the site are the source of truth.
@@ -18,7 +18,7 @@ bill** — shared with [Aether Code](https://github.com/DBarr3/aether-agent).
 ## What is UVT?
 
 **UVT** is the universal usage credit. Every model call — in AetherCloud and in
-Aether Code — is metered in UVT, so you see cost as it happens instead of after
+Aether Agent — is metered in UVT, so you see cost as it happens instead of after
 the fact. A subscription includes an allotment; UVT credits let you go beyond it
 on demand.
 

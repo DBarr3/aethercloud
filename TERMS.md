@@ -18,7 +18,7 @@ conflict with this summary.
   an evidence-grade chain of custody.
 - **Billing** is handled on the shared Aether platform. See
   [PRICING.md](PRICING.md) and [aethersystems.net/pricing](https://aethersystems.net/pricing).
-- **Trademarks:** "AetherCloud", "Aether Code", "Protocol C", "QOPC", "NEO",
-  "KRONUS" and the Aether marks are trademarks of Aether Ai LLC.
+- **Trademarks:** "AetherCloud", "Aether Agent", "Aether Code", "Protocol C",
+  "QOPC", "NEO", "KRONUS" and the Aether marks are trademarks of Aether Ai LLC.
 
 For the full, controlling terms, see **[aethersystems.net](https://aethersystems.net)**.
