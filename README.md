@@ -118,9 +118,9 @@ card. Upgrade or top up anytime at
 
 ## Features
 
-- **ATLAS** — a ground-truth engine that will sit between your models to keep
+- **ATLAS** — a ground-truth engine that sit's between your models to keep
   outputs anchored to verified reality.
-- **Dream Logs** — ambient memory: your agents will synthesize what they learned
+- **Dream Logs** — ambient memory: your agents synthesize what they learned
   about your work between sessions, so the system arrives already up to speed.
 
 ---
