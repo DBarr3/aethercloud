@@ -82,7 +82,7 @@ drive projects, workflows, and the Vault from the desktop; reach the same models
 from the web.
 
 ```bash
-npm i -g aether-agent
+npm i -g aether-agents
 ```
 
 ## Pricing & UVT
