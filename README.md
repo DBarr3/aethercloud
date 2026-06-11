@@ -116,7 +116,7 @@ installer, sign in with your Aether account, and you're in. About a minute, no
 card. Upgrade or top up anytime at
 [aethersystems.net/pricing](https://aethersystems.net/pricing).
 
-## On the roadmap
+## Features
 
 - **ATLAS** — a ground-truth engine that will sit between your models to keep
   outputs anchored to verified reality.
