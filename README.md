@@ -61,6 +61,10 @@ dumb folder; it's the active working memory the agents reason from. And it **syn
 to your Aether AI on the web**, so you pick up the same context from your browser.
 Your files never touch a third-party cloud, and every model call is signed.
 
+Powering that reach is **[Unlimited Context](https://github.com/DBarr3/Unlimited-Context-LLM)** —
+Aether's open-source (Apache-2.0) context engine that gives models a
+billion-token working memory. Both AetherCloud and Aether Agent run on it.
+
 ## Trust, provenance & self-improvement
 
 - **Protocol C — proof, not vibes.** Every file operation and every AI output is
