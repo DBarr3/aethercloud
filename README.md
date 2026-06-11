@@ -127,7 +127,9 @@ card. Upgrade or top up anytime at
 
 <div align="center">
 
-**AetherCloud** — Aether Ai LLC · Proprietary · Patent Pending #64/010,131 · All Rights Reserved
+**AetherCloud** — Aether AI LLC · Proprietary · Patent Pending #64/010,131 · All Rights Reserved
+
+Created by **[Brandon Barrante](https://github.com/DBarr3)** · founder, Aether AI
 
 [Download](https://aethersystems.net/download) · [Pricing](https://aethersystems.net/pricing) · [Release notes](RELEASE_NOTES.md) · [Terms](TERMS.md) · [Security](SECURITY.md) · [aethersystems.net](https://aethersystems.net)
 
