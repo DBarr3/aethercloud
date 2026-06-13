@@ -41,13 +41,6 @@ Chain agents into a repeatable pipeline — draft, build, verify, file the resul
 then **build it once and set it on a schedule in plain English.** Walk away; the
 workflow runs while you sleep and lands the output in your Vault.
 
-## Projects + the Coder IDE
-
-Open a project, point the agents at it, and work side-by-side with them in the
-built-in **Coder IDE**. Browse files, run multi-step builds, review diffs, and let
-agents edit alongside you — all on one surface. No tab-switching, no copy-paste
-between a chat tab and your editor.
-
 ## The Vault — your AI's living memory
 
 A sealed Vault gives your agents real, persistent context: your files, your past
