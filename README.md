@@ -10,6 +10,9 @@
 
 **[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Release notes](RELEASE_NOTES.md)** · **[Aether Agent — the terminal bridge](https://github.com/DBarr3/aether-agent)**
 
+**AetherCloud is in **BETA** i am shipping updates as fast as possible
+
+
 [Models & orchestration](#models--orchestration) · [Workflows](#workflows) · [Coder IDE](#projects--the-coder-ide) · [Vault](#the-vault--your-ais-living-memory) · [Trust & proof](#trust-provenance--self-improvement) · [Pricing](#pricing--uvt)
 
 </div>
