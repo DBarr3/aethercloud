@@ -6,7 +6,7 @@
 
 ### The agentic desktop app where your AI actually ships the work.
 
-[![Patent Pending](https://img.shields.io/badge/patent-pending%20%2364%2F010%2C131-7c3aed)](https://aethersystems.net) [![Platform](https://img.shields.io/badge/platform-Windows-06b6d4)](https://aethersystems.net/download) [![Release notes](https://img.shields.io/badge/release_notes-june_2026-14b8a6)](RELEASE_NOTES.md)
+[![Release notes](https://img.shields.io/badge/release_notes-june_2026-14b8a6)](RELEASE_NOTES.md)
 
 **[⬇ Download free (no card)](https://aethersystems.net/download)** · **[Pricing](https://aethersystems.net/pricing)** · **[Release notes](RELEASE_NOTES.md)** · **[Aether Agent — the terminal bridge](https://github.com/DBarr3/aether-agent)**
 
